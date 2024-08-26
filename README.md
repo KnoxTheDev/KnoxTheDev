@@ -10,4 +10,4 @@ I'm **KnoxTheDev**, a passionate Java developer with a focus on Minecraft moddin
 
 ## 🌟 Support My Work
 
-If you find my work helpful or interesting, consider giving my projects a ⭐ or sponsoring me!
+If you find my work helpful or interesting, consider giving my projects a ⭐ !
